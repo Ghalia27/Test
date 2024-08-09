@@ -1,0 +1,7 @@
+Initial candy bars: 15
+Free candy bars from wrappers: 5 + 2 + 1 = 8
+
+Total Candy Bars Kyle can get:
+15 (initial) + 8(free) =23
+
+Kyle can get a total of 23 candy bars.
